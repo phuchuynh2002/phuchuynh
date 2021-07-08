@@ -1,0 +1,134 @@
+@charset "UTF-8";
+/* CSS Document */
+.nen {
+  width: 100%;
+  height: 500px;
+  background-color: black;
+}
+.trong {
+  background-color: silver;
+  width: 100%;
+  height: 70px;
+  position: relative
+}
+.trong ul {
+  list-style: none;
+  padding: 10px;
+}
+.trong ul li {
+  float: right;
+  padding: 10px 10px 10px 30px;
+}
+.trong ul li {
+  text-decoration-color: antiquewhite
+}
+.trong ul li a {
+  text-decoration: none;
+	color: #000000;
+}
+.nenduoi {
+  background-color: black;
+  width: 100%;
+  height: 800px;
+  position: relative;top: 0px;
+}
+.nentroghinh {
+  background-color: black;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 230px;
+}
+.nentronghinhphai {
+  background-color: black;
+  width: 250px;
+  height: 200px;
+  position: absolute;
+  top: 90px;
+  right: 10px;box-sizing: border-box;color: white;padding: 30px;opacity: 0.7;top: 230px
+}
+.nenhinhtieptheo {
+  background-image: url(../image/moi.png);background-repeat: no-repeat
+  width: 1664px;
+  height: 800px;
+	position: relative;bottom: -370px;left: 0px;box-sizing: border-box;color: white;}
+
+.trongdo {
+  background-image: url("../image/522d036525037baf093a515c44da8544.png");
+  width: 400px;
+  height: 350px;
+  position: absolute;
+  left: 250px;
+  bottom: 80px;
+}
+.trongdophai {
+  background-image: url("../image/moi2.png");
+  width: 400px;
+  height: 350px;
+  position: absolute;
+  right: 250px;
+  bottom: 80px
+}
+.hinhtrong {
+  background-color: silver;
+  width: 400px;
+  height: 100px;
+  opacity: 0.4;
+  position: absolute;
+  bottom: 0px;text-align: center;opacity: 1.0;box-sizing: border-box;
+}
+.hinhtrong h1
+{color: white;}
+.cuoi
+{background-image: url("../image/Martin_Garrix_ADE_Saturday_06.jpeg");
+width: 100%;
+	height:1000px;background-repeat: no-repeat;}
+.lanla
+{background-color: black;
+width: 450px;
+height: 100px;position: absolute;right: 600px;bottom: 650px;color: white;}
+.lanla h1
+{color: white;text-align: center;}
+.cuoi_1
+{background-color: white;
+width: 500px;height: 200px;position: absolute;top:1800px;left: 250px;box-sizing: border-box;color: black;}
+.cuoi_1 h1 
+{color: black;}
+.cuoi_1 ol li
+{margin: 10px 20px 20px 20px;}
+.cuoi h1
+{text-align: center;position: absolute;color: white;
+top: 1700px;left: 790px;}
+.nencuoi_3
+{background-color: white;
+width: 500px;
+height: 200px;position: absolute;top: 2030px;left: 250px;box-sizing: border-box;font-size: 20px;padding: 10px;}
+.hinh03
+{background-image: url("../image/images.jpeg");
+width:500px;height: 200px;position: absolute;top:1800px;background-repeat: no-repeat;left: 550px}
+.phai01
+{background-image: url("../image/text3.png");
+width: 554px;height: 330px;position: absolute;top: 1800px;left: 800px}
+.cuoi4
+{background-color: white;
+width: 100%;
+height: 200px;}
+.logo
+{background-image: url("../image/new1.png");
+width: 200px;
+height: 110px;position: absolute;left: 20px}
+.cuoi5
+{background-color: white;
+width: 400px; height: 90px;position: absolute;top: 2430px;left: 40px;box-sizing: border-box;}
+.cuoi6
+{background-color: white;
+width: 200px;height: 50px;position: absolute;top: 2330px;left:500px}
+.cuoi6 
+{text-align: center;}
+.cuoi7
+{background-color: white;
+width: 200px;height: 50px;position: absolute;top: 2430px;left:500px}
+
+
+
+
